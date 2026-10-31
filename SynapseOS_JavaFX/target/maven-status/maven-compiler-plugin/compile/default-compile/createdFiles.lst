@@ -1,0 +1,9 @@
+synapseos\Admin.class
+synapseos\Department.class
+synapseos\Employee.class
+synapseos\Main.class
+synapseos\Manager.class
+synapseos\Task.class
+synapseos\ConsoleMenu.class
+synapseos\User.class
+synapseos\Request.class
